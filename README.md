@@ -1,6 +1,6 @@
 # Fibonacci Series
 
-# =============================================
+# ================================
 fibonacci_series_ver_3 description:
 
 to use this code as a program you have two ways;
